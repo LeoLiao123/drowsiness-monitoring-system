@@ -10,7 +10,7 @@ def distance(point1, point2):
     return math.sqrt((abs(point1[0] - point2[0]) ** 2) + (abs(point1[1] - point2[1]) ** 2))
 
 
-UbidotsApi = ApiClient(token="BBFF-Yqq576MyOD7OOWMIsCPto8CRqp64ZO")
+UbidotsApi = ApiClient(token="YOUR_API_KEY")
 
 # 載入人臉偵測器
 detector = dlib.get_frontal_face_detector()
