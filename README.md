@@ -64,10 +64,15 @@ Configure the following settings in `config/settings.py`
 * Camera settings
 * User database
 
-
-
-Usage
+## Usage
 
 ```bash
 python main.py
 ```
+## Reference
+
+[1] https://steam.oxxostudio.tw/category/python/ai/ai-face-recognizer.html
+
+[2] http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
+
+[3] [https://blog.csdn.net/cungudafa/article/details/103496881](https://www.cnblogs.com/lushuang55/p/17396900.html)
